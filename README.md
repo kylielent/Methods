@@ -35,12 +35,14 @@ then you would add a return or you could do if and else statements
 ```
 
 ##Command Prompts
+```
+```
 
 ## Summary
 ```
 The purpose of this assignment was to take what we have learned from method calls and for loops 
 and apply it to something we have already done, which is the addition game. 
-This time we make it easier to write out the code because instead of copiying and pasting
+This time we make it easier to write out the code because instead of copying and pasting
 all four rounds we just assign some code to a method call or for loop, or both, 
 and make the quiz faster and less tedious.
 ```
