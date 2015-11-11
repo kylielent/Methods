@@ -13,9 +13,10 @@ public class Methods {
 		int StopIndex = 2;
 		boolean isanswercorrect;
 		
-		for (int index = 0; index<StopIndex; index = index+1){
+		for (int index = 0; index<StopIndex; index=index+1){
 			System.out.println("Howdy");
 			isanswercorrect = checkanswermethod(hardness);
+			
 			if (isanswercorrect) {
 				System.out.println("It was correct");
 			}else{ 
